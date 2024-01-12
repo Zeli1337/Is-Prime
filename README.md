@@ -53,6 +53,7 @@ Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - C#
 - CSS
 - CUDA
+- Chinese
 - Dafny
 - Dart
 - DreamBerd---e-acc
